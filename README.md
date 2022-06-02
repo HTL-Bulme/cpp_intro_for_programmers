@@ -1,5 +1,5 @@
 # CPP Exercise - Intro for Programmers 
 
-This homework is to be prepared in teams of two students. Ask the lecturer to
-announce the teams to know who you'll be working with.
-
+This repository provides outlines that prevent you from typing some
+boilerplate code. Clone the repository and then finish the tasks described in
+[cpp/exercise_1/](https://bulme.find-santa.eu/exercises/cpp/exercise_1/).
